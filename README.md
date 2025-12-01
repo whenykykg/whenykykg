@@ -8,7 +8,7 @@
       <h1>👋 Hello, I'm Gian Y. Anday!</h1>
       <p align="justify">
         Welcome to my GitHub profile! I'm passionate about 
-        <strong>software development</strong> and <strong>building awesome applications</strong>, and editing.
+        <strong>software development</strong> and <strong>building awesome applications</strong>, and <strong>editing</strong>.
       </p>
       </p>
       <p align="center">
