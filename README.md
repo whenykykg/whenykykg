@@ -7,24 +7,18 @@
     <td style="vertical-align: top; padding-left: 20px; border: none; width: 100%;">
       <h1>👋 Hello, I'm Gian Y. Anday!</h1>
       <p align="justify">
-        Welcome to my GitHub profile! I'm passionate about
+        Welcome to my GitHub profile! I'm passionate about 
         <strong>software development</strong> and <strong>building awesome applications</strong>, and editing.
       </p>
-
       <p align="center">
-        <a href="https://github.com/whenykykg">Gian's GitHub Stats</a>
+        <img src="https://github-readme-stats.vercel.app/api?username=whenykykg&show_icons=true&theme=tokyonight&show=prs_merged,prs_merged_percentage" width="430"
+             alt="Gian's GitHub Stats"/>
       </p>
-
       <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=whenykykg&show_icons=true&theme=tokyonight&show=prs_merged,prs_merged_percentage"
-             width="430" alt="Gian's GitHub Stats"/>
-      </p>
-
-      <p align="center">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=whenykykg&theme=tokyonight"
-             width="220" alt="Gian's GitHub Stats"/>
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=whenykykg&theme=tokyonight"
-             width="220" alt="Gian's GitHub Stats"/>
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=whenykykg&theme=tokyonight" width="220" 
+             alt="Gian's GitHub Stats"/>
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=whenykykg&theme=tokyonight" width="220" 
+             alt="Gian's GitHub Stats"/>
       </p>
     </td>
   </tr>
