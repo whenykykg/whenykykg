@@ -1,7 +1,7 @@
 <table style="border-collapse: collapse; border: none; width: 100%;">
   <tr>
     <td style="vertical-align: top; border: none; width: 50%;">
-      <a href="https://app.daily.dev/whenykykg">
+      <a href="https://app.daily.dev/whenykykgi">
         <img src="https://api.daily.dev/devcards/v2/Gn6WjfB6thysN0aLQD9z3.png?type=default&r=blw" width="356" alt="Gian Y. Anday's Dev Card"/></a>
     </td>
     <td style="vertical-align: top; padding-left: 20px; border: none; width: 100%;">
