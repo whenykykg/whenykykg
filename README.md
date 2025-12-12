@@ -17,6 +17,13 @@
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=whenykykg&theme=tokyonight" width="220" 
              alt="Gian's GitHub Stats"/>
       </p>
+  <h2 align="center">Skills </h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,vscode,c,cs,cpp,js,css,html,ae,blender,django,docker,dotnet,eclipse,figma,flask,java,kali,linux,mongodb,mysql,golang,nodejs,npm,php,postman,pr" />
+  </a>
+</p>
     </td>
   </tr>
 </table>
