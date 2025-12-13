@@ -17,7 +17,9 @@
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=whenykykg&theme=tokyonight" width="220" 
              alt="Gian's GitHub Stats"/>
       </p>
-  <h2 align="center">Skills </h2>
+  </tr>
+</table> 
+<h2 align="center">Skills </h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -25,5 +27,5 @@
   </a>
 </p>
     </td>
-  </tr>
-</table>
+
+
